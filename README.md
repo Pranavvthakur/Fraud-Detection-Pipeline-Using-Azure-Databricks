@@ -120,6 +120,5 @@ Evaluate the model's performance using metrics like **Precision, Recall, F1-scor
 - Power BI (for visualization)
 - Streamlit (for UI)
 
-## Contact
-For any questions or clarifications, please reach out to the project owner.
+
 
